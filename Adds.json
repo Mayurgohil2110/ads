@@ -1,0 +1,106 @@
+{
+  "one-signal": "",
+  "assets": {
+    "bhagvadgeeta": "ehTAqtlwIHRV8WIIuY7FNJKXKGiN4vACjTIsslRu/6D7+368Q66lUQzQESDyT0lfWwwItiiELVgCiMjN/SR1",
+    "privacyPolicy": "https://clashhero.in/privacy.php",
+    "contactUs": "https://clashhero.in/support/index.php",
+    "rateUs": "https://apps.apple.com/app/id6479356008",
+    "shareApp": "https://apps.apple.com/app/id6479356008"
+  },
+  "adIds": {
+    "google": {
+      "appOpen": "ca-app-pub-3940256099942544/5575463023",
+      "fullScreen": "ca-app-pub-3940256099942544/4411468910",
+      "reward": "",
+      "rewardInter": "",
+      "banner": "ca-app-pub-3940256099942544/9214589741",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "unity": {
+      "placementId": "",
+      "gameId": ""
+    },
+    "applovin": {
+      "id": "",
+      "fullScreen": ""
+    },
+    "ironSource": {
+      "appId": ""
+    }
+  },
+  "1.0.0": {
+    "globalConfig": {
+      "globalAdFlag": true,
+      "globalNative": true,
+      "globalBanner": true,
+      "rewardOverRide": false,
+      "overrideTimer": 15,
+      "rateUsTimer": 60000,
+      "maxFailed": 2
+    },
+    "isUserConsent": false,
+    "isUpdate": false,
+    "updateUrl": "https://apps.apple.com/app/id6469602787",
+    "screens": {
+      "/HomePage": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "2": 4,
+          "3": 4
+        },
+        "banner": 0,
+        "native": 0
+      },
+      "/ShlokDataPage": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "2": 4,
+          "3": 4
+        },
+        "banner": 0,
+        "native": 0
+      },
+      "/ShlokPageDetailsPage": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "2": 4,
+          "3": 4
+        },
+        "banner": 0,
+        "native": 0
+      },
+      "/BhagvadGeetaSaarPage": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "2": 4,
+          "3": 4
+        },
+        "banner": 0,
+        "native": 0
+      }
+    },
+    "actions": {
+      "/SplashScreen": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "0": 1
+        }
+      }
+    }
+  }
+}
