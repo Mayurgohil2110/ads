@@ -6,11 +6,11 @@
   },
   "adIds": {
     "google": {
-      "appOpen": "ca-app-pub-3940256099942544/5575463023",
-      "fullScreen": "ca-app-pub-3940256099942544/4411468910",
+       "appOpen": "",
+      "fullScreen": "ca-app-pub-3940256099942544/1033173712",
       "reward": "",
       "rewardInter": "",
-      "banner": "ca-app-pub-3940256099942544/9214589741",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
       "native": "ca-app-pub-3940256099942544/2247696110"
     },
     "unity": {
