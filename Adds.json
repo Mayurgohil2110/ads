@@ -3,10 +3,13 @@
   "assets": {
     "bhagvadgeeta": "https://mayurgohil2110.github.io/bhagvadgeeta/bhagvadgeeta.json",
     "privacyPolicy": "https://www.freeprivacypolicy.com/live/f4e2f96a-663c-4ec7-9ac2-a2514b238b21",
+    "contactUs": "",
+    "rateUs": "",
+    "shareApp": ""
   },
   "adIds": {
     "google": {
-       "appOpen": "",
+      "appOpen": "",
       "fullScreen": "ca-app-pub-3940256099942544/1033173712",
       "reward": "",
       "rewardInter": "",
@@ -37,7 +40,7 @@
     },
     "isUserConsent": false,
     "isUpdate": false,
-    "updateUrl": "https://apps.apple.com/app/id6469602787",
+    "updateUrl": "",
     "screens": {
       "/HomePage": {
         "localAdFlag": true,
@@ -63,7 +66,7 @@
         "banner": 0,
         "native": 0
       },
-      "/ShlokPageDetailsPage": {
+       "/ShlokPageDetailsPage": {
         "localAdFlag": true,
         "localClick": [
           0
@@ -75,7 +78,7 @@
         "banner": 0,
         "native": 0
       },
-      "/BhagvadGeetaSaarPage": {
+       "/BhagvadGeetaSaarPage": {
         "localAdFlag": true,
         "localClick": [
           0
@@ -90,6 +93,15 @@
     },
     "actions": {
       "/SplashScreen": {
+        "localAdFlag": false,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "0": 1
+        }
+      },
+      "actionName": {
         "localAdFlag": true,
         "localClick": [
           0
