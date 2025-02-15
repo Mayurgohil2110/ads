@@ -1,0 +1,82 @@
+{
+  "one-signal": "",
+  "assets": {
+    "wallpaper": "https://mayurgohil2110.github.io/krishna_wallpaper/krishnaji.json",
+    "privacyPolicy": "https://www.freeprivacypolicy.com/live/42474677-50dc-43af-8c10-7caeb64cb533",
+    "contactUs": "",
+    "rateUs": "",
+    "shareApp": ""
+  },
+  "adIds": {
+    "google": {
+      "appOpen": "ca-app-pub-3940256099942544/9257395921",
+      "fullScreen": "ca-app-pub-3940256099942544/1033173712",
+      "reward": "",
+      "rewardInter": "",
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "unity": {
+      "placementId": "",
+      "gameId": ""
+    },
+    "applovin": {
+      "id": "",
+      "fullScreen": ""
+    },
+    "ironSource": {
+      "appId": ""
+    }
+  },
+  "1.0.0": {
+    "globalConfig": {
+      "globalAdFlag": true,
+      "globalNative": true,
+      "globalBanner": true,
+      "rewardOverRide": false,
+      "overrideTimer": 15,
+      "rateUsTimer": 60000,
+      "maxFailed": 2
+    },
+    "isUserConsent": false,
+    "isUpdate": false,
+    "updateUrl": "",
+    "screens": {
+      "/HomePage": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "2": 4,
+          "3": 4
+        },
+        "banner": 0,
+        "native": 0
+      },
+      "/WallpaperDetailsPage": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "2": 4,
+          "3": 4
+        },
+        "banner": 0,
+        "native": 0
+      }
+    },
+    "actions": {
+      "/SplashScreen": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "0": 1
+        }
+      }
+    }
+  }
+}
